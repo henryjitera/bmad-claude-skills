@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "organization": "Clean Code JavaScript",
+  "date": "January 2026",
+  "abstract": "Comprehensive clean code principles for JavaScript applications, designed for AI agents and LLMs. Contains 40+ rules across 10 categories covering variables, functions, objects, classes, SOLID principles, testing, concurrency, error handling, formatting, and comments. Each rule includes detailed explanations and real-world examples comparing incorrect vs. correct implementations to guide automated refactoring and code generation.",
+  "references": [
+    "https://github.com/ryanmcdermott/clean-code-javascript",
+    "https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882"
+  ]
+}

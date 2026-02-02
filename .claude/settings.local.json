@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(tree:*)",
+      "Skill(js-clean-code)",
+      "Skill(react-best-practices)",
+      "Skill(bmad-core-master)",
+      "Skill(bmad-bmm-developer)",
+      "Skill(bmad-bmm-pm)",
+      "Skill(bmad-bmm-architect)",
+      "Skill(bmad-cis-creative-intelligence)",
+      "WebSearch",
+      "WebFetch(domain:aj-geddes.github.io)",
+      "WebFetch(domain:github.com)",
+      "Bash(pnpm install)",
+      "Bash(npm --version)",
+      "Bash(npm install:*)",
+      "Bash(pnpm:*)",
+      "Bash(npx tsc:*)",
+      "Bash(npx prettier:*)",
+      "Bash(npx eslint:*)",
+      "Skill(bmad_bmm_create-story)",
+      "Bash(npx tailwindcss init -p)",
+      "Bash(curl:*)"
+    ]
+  }
+}
